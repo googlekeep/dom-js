@@ -12,4 +12,3 @@ const add2 = function(first, second){
     return total;
 }
 
-
